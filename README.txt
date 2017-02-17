@@ -48,4 +48,4 @@ GIMP, GZDoom Builder, Dragon UnPacker, Slade 3, Misfit3d, XModel Exporter, Forma
 
 ====================================================================================================
 SPECIAL THANKS:
-ZDoom Community, Realm667, GitHUB Community, Graf Zahl, Randy Heit
+ZDoom Community, Realm667, GitHUB Community, Graf Zahl, Randy Heit, Tiger
